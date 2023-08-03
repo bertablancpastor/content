@@ -96,7 +96,7 @@ La forma más sencilla de implementar la autenticación en tu base de datos y en
 
 ![Autentication workflow](https://github.com/breatheco-de/content/blob/master/src/assets/images/authentication-diagram.png?raw=true)
 
-### Every token is a session
+
 
 ### Cada token es una sesión
 
